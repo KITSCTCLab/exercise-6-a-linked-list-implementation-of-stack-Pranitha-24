@@ -26,7 +26,7 @@ class Stack:
       return temp
       
       
-  def status(self)
+  def status(self):
     """
     It prints all the elements of stack.
     """
